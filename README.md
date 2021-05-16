@@ -1,5 +1,5 @@
 # Python Synthesizer
-
+A synthesizer built in Python to help me better my understanding of sound synthesis.
 
 ## Setup
 
