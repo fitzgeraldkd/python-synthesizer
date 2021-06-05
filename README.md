@@ -16,7 +16,12 @@ In the main directory, create and activate a virtual environment:
 
 To start the synthesizer, run `python gui.py`
 
-## Wish List
+## Technologies
+
+- Python
+  - PyQt5
+
+## Wishlist
 
 - Simplify file structure to make it clearer how to start synthesizer
 - Allow oscillators to be modulated by other oscillators
